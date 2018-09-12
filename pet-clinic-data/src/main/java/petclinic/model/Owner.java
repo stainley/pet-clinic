@@ -1,4 +1,4 @@
-package com.salapp.petclinic.model;
+package petclinic.model;
 
 public class Owner extends Person{
 
